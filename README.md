@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Agnieszka!  
  [![Visits Badge](https://badges.pufler.dev/visits/AgaMiko/AgaMiko)](https://badges.pufler.dev/visits/AgaMiko/AgaMiko)
-- 🔭 I’m currently finishing on my PhD thesis
-- 🤔 I’m currently working at Voicelab.ai and Gdańsk Univeristy of Technology
-- 👯 I’m looking to collaborate on [HearAI](https://www.hearai.pl/) project
+- 🔭 I’m currently finishing my PhD thesis
+- 🤔 I’m currently working at [Voicelab.ai](https://voicelab.ai/) (NLP R&D Team) and [Gdańsk Univeristy of Technology](https://pg.edu.pl/en)
+- 👯 I’m looking for possible collaboration on [HearAI](https://www.hearai.pl/) project
 
 <!--
 **AgaMiko/AgaMiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
