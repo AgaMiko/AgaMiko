@@ -1,7 +1,5 @@
  Hi there 👋 I am Agnieszka! 
-- ✍️ I’m currently finishing my PhD thesis
 - 💻 I’m currently working at [Voicelab.ai](https://voicelab.ai/) (NLP R&D Team) and [Gdańsk Univeristy of Technology](https://pg.edu.pl/en)
-- 🤝 I'm interested in possible collaboration in the topic of bias discovery and mitigation
 
 <!--
 **AgaMiko/AgaMiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
