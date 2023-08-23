@@ -1,6 +1,6 @@
  Hi there 👋 I am Agnieszka! 
 - 💻 I’m currently working at [Voicelab.ai](https://voicelab.ai/) (NLP R&D Team) and [Gdańsk Univeristy of Technology](https://pg.edu.pl/en)
-
+- 🤖 Check out our [TRURL 2](https://huggingface.co/Voicelab/trurl-2-13b): a Polish Llama 2.0!
 <!--
 **AgaMiko/AgaMiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
