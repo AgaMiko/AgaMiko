@@ -1,6 +1,4 @@
  Hi there 👋 I am Agnieszka! 
-- 💻 I’m currently working at [Voicelab.ai](https://voicelab.ai/) (NLP R&D Team) and [Gdańsk Univeristy of Technology](https://pg.edu.pl/en)
-- 🤖 Check out our [TRURL 2](https://huggingface.co/Voicelab/trurl-2-13b): a Polish Llama 2.0!
 
  ![Stats](https://github-profile-trophy.vercel.app/?username=agamiko&no-frame=true&no-bg=true&margin-w=5)
  
